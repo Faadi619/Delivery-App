@@ -13,7 +13,7 @@ Frontend: Flutter (Dart)
 
 Backend: Firebase (Firestore, Auth, Cloud Functions)
 
-Get Started:
+# Get Started:
 
 Clone: git clone https://github.com/Faadi619/Delivery-App.git
 Install dependencies: flutter pub get.
